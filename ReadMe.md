@@ -1,1 +1,1 @@
-A Costum Voice control IOT Application using ESP32 
+A  Voice control IOT Application using ESP32 
